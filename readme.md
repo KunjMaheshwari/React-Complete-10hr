@@ -13,4 +13,6 @@ Example - ESLint: Used primarily for JavaScript and TypeScript.
 
 6. robots.txt is for your google indexing and manifest.json is for your mobile indexing.
 
-7. 
+7. State -> Any change in the state will re render the UI on the web page.
+
+8. Batching -> React never sends anything immediately, it first bundles all the changes then sends to the virtual DOM with the help of reconsilation. 
