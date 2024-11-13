@@ -22,3 +22,5 @@ Example - ESLint: Used primarily for JavaScript and TypeScript.
 10. Reconcillation -> It is a process through which react updates it's UI very quickly.
 
 11. React Fiber -> React Fiber is a reimplementation of the React core algorithm, introduced to improve its performance and capabilities. 
+
+12. Props - These are the Objects therefore we can add Values inside it.
