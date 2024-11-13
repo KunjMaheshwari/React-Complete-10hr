@@ -16,3 +16,9 @@ Example - ESLint: Used primarily for JavaScript and TypeScript.
 7. State -> Any change in the state will re render the UI on the web page.
 
 8. Batching -> React never sends anything immediately, it first bundles all the changes then sends to the virtual DOM with the help of reconsilation. 
+
+9. Difting -> Difting is a process in React.js in which React Compares the virtual DOM with the Actual DOM. 
+
+10. Reconcillation -> It is a process through which react updates it's UI very quickly.
+
+11. React Fiber -> React Fiber is a reimplementation of the React core algorithm, introduced to improve its performance and capabilities. 
