@@ -30,3 +30,5 @@ Example - ESLint: Used primarily for JavaScript and TypeScript.
 14. Memoization -> It is a concept which is basically used with useCallBack functions in react.js and it is performed using the dependency array that we create at the end of useCallback function.
 
 15. useEffect -> useEffect is a critical hook in React for managing side effects in functional components. It allows you to perform operations like data fetching, DOM manipulation
+
+4:00:40
